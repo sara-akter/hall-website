@@ -1,0 +1,45 @@
+* {margin:0;padding:0}
+body{font-family:Arial;font-size:14px;line-height:20px;
+color:#000;background:#90C7E3}
+
+.main{width:960px;margin:20px auto;display:block;
+overflow:hidden;background:#FFF}
+
+.header{background:}
+.header img{width:150px;margin-top:20px;margin-bottom:15px;margin-left:370px}
+.header b{color:#9EAB05;font-family:algerian;font-size:40px;margin-top:20px}
+.mainmenu{background:#ededed;overflow:hidden;margin-top:20px}
+.mainmenu ul{margin:0;padding:0;list-style:none}
+.mainmenu ul li{float:left;border-right:1px solid #ddd}
+.mainmenu ul li a{display:block;color:#000;padding:10px 20px;
+text-decoration:none}
+.mainmenu ul li a:hover{background:#98B0CA}
+
+.slider{}
+.maincontent{overflow:hidden;margin-top:25px}
+
+.content{float:left;width:900px;margin-right:30px;margin-bottom:30px;margin-left:20px}
+.img{}
+.img p{font-family:algerian;font-size:40px;margin-top:20px}
+
+.member{}
+.all_room{height:500px;width:130px;float:left;margin-left: 20px;
+margin-right: 80px;}
+.all_room ul{width: 150px;list-style:none;background:#ededed}
+.all_room ul li{padding:5px;border-bottom:1px solid #ddd}
+.all_room ul li a{text-decoration:none;color:#2A5EA3}
+.all_room ul li a:hover{background:#90C7E3}
+
+
+.mem1{height:500px;width:320px;float:left}
+.mem2{height:500px;width:320px;float:left}
+
+.sidebar{float:right;width:440px;margin-top:3Opx;margin-bottom: 30}
+.img{margin-bottom:50px}
+.sidebar ul {list-style:none}
+.sidebar ul li{padding:5px;border-bottom:1px solid #ddd}
+.sidebar ul li a{text-decoration:none;color:gray}
+.sidebar ul li a:hover{background:#90C7E3}
+
+.footer{background:#354B7C;color:#C8B9CC;margin-top:20px;
+padding:10px}

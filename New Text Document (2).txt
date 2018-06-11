@@ -1,0 +1,71 @@
+<html>
+
+	<head>
+
+		<title>SJJIH_MBSTU</title>
+		<link href="games.css" rel="stylesheet" type="text/css"/>
+
+	</head>
+
+	<body>
+		 
+		
+		
+		<div class="main">
+			
+	 		<div class="header">
+				<img src="logo_large.jpg">
+				<b><center>SHAHID JANANI JAHANARA IMAM HALL</center></b>
+			</div>
+			<div class="mainmenu">
+				<ul>
+					<li><a href="Hall.html">Home</a></li>
+					<li><a href="Hall.html">About</a></li>
+					<li><a href="seat_allocation.html">Student Information</a></li>
+					<li><a href="facilities.html">Facilities</a></li>
+					<li><a href="dinning.html">Dining System</a></li>
+					<li><a href="seat_allocation.html">Seat Allocation</a></li>
+					<li><a href="updates.html">Updates</a></li>
+					<li><a href="contact.html">Contact</a></li>
+					
+				</ul>
+	 
+			</div>
+
+			<div class="slider">
+				<img src="mbstu1.jpg">
+			</div>
+			<div class="maincontent">
+			<div class="mem" style="height:200px;width:200px;float:left;">	
+				<div class="sidebar">
+					<h2>Updates</h2>
+					<ul>
+						
+						<li><a href="notice.html">Notice Board</a></li>
+						<li><a href="event.html">Events</a></li>
+						<li><a href="rule.html">Evening Rule of Entrance</a></li>
+						<li><a href="games.html">Games</a></li>
+						<li><a href="">Others</a></li>
+					
+					</ul>
+				</div>
+</div>
+<div class="mem2" style="height:200px;width:400px;float:right;">
+
+<h2>Evening rules of Entrance:</h2>
+
+<p> Security systems of SJJIH is strong. Every student has to back the hall at 7.00 pm.If any student does not back into the hall in due time 
+                                 , she must have to contact with the home tutor & only she can get into the hall according to permissions of home tutor<br><br>Home tutor name:Mahbuba Begum.<br>Contact Number:122356788<br>e-mail:mahbubabegum@gmail.com</p>
+
+</div>
+
+			</div>
+			<div class="footer">
+				<p>&copy; SJJIH_MBSTU</p>
+			</div>
+		</div>
+ 
+	
+	</body>
+
+</html>
